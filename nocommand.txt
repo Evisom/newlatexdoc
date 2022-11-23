@@ -1,0 +1,3 @@
+Undefined command
+Run:
+    newlatexdoc help

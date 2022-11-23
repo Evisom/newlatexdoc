@@ -1,0 +1,10 @@
+newLaTeXdoc v1.0
+developed by Dmitriy Shishmintsev
+
+OPTIONS:
+    ~$ newlatexdoc add templateFolderName             - adds templateFolderName to templates
+    ~$ newlatexdoc create templateName folderName     - creates a template folder with folderName
+    ~$ newlatexdoc remove templateName                - removes templateName from templates 
+
+
+templates are stored in ~/newlatexdoc 
