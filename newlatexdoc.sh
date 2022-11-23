@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 action=$1
 IFS=
-scriptFolder=$HOME'/scripts/newlatexdoc'
+scriptFolder=$HOME'/newlatexdoc'
 
 templatesFile=$scriptFolder'/templates.txt'
 templateFolder='-1'
